@@ -1,8 +1,6 @@
 EcoTrackr
 =========
 
-This project is being developed as part of the `University of Portsmouth's <https://port.ac.uk>`_ School of Computing module, Software Engineering Theory and Practice. The deliverable of this project is a *prototype* of an application. 
-
 .. toctree::
    :maxdepth: 2
    :hidden:
@@ -28,3 +26,7 @@ This project is being developed as part of the `University of Portsmouth's <http
    /code-doc/index
    Frontend Documentation <https://frontend-docs.ecotrackr.cc>
    Backend (API) Documentation <https://backend-docs.ecotrackr.cc>
+
+
+
+This project is being developed as part of the `University of Portsmouth's <https://port.ac.uk>`_ School of Computing module, Software Engineering Theory and Practice. The deliverable of this project is a *prototype* of an application. 
