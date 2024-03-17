@@ -1,4 +1,4 @@
-The Team
-===
+The Team 
+========
 
 Blurb about the team 

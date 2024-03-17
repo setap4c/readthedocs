@@ -3,8 +3,6 @@ Ecotrackr User Requirements
 
 User Requirements gathered from the interview phase that reach fundamental needs of each users
 
-Contents
---------
 
 #. The user should have the ability to input their *mode of transport* and the distance in which they
 travelled during the day.
