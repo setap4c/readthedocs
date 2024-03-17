@@ -11,6 +11,6 @@ SETaP Team 4C
 
 Team Structure
 --------------
-* Team leader: Thomas who is also the "Keeper of the Documentation" and "Guardian of the GitHub"
+* Team leader: Thomas
 * Frontend Team: Connor, Katelyn, Aura
 * Backend Team: Havish, Alex, Adrian and Thomas

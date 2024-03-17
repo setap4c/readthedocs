@@ -6,7 +6,6 @@ EcoTrackr
    :hidden:
    :caption: The Project
 
-   /index
    /ecotrackr/the-team
    /ecotrackr/app-requirements
    /ecotrackr/components
