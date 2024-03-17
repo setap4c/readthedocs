@@ -1,3 +1,6 @@
+Components
+==========
+
 The User Requirements we have obtained are the following:
 1. The user should have the ability to input their mode of transport and the distance in which they
 travelled during the day.
