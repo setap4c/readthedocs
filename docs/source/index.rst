@@ -16,6 +16,7 @@ EcoTrackr
    :caption: Development
 
    /dev/index
+   /dev/justification
 
 .. toctree::
    :maxdepth: 2
@@ -25,6 +26,13 @@ EcoTrackr
    /code-doc/index
    Frontend Documentation <https://frontend-docs.ecotrackr.cc>
    Backend (API) Documentation <https://backend-docs.ecotrackr.cc>
+
+.. toctree::
+   :maxdepth: 2
+   :hidden:
+   :caption: Application Usage
+
+   /usage/navigation
 
 
 
