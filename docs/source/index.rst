@@ -34,6 +34,11 @@ EcoTrackr
 
    /usage/navigation
 
+.. toctree::
+   :maxdepth: 2
+   :hidden:
+   :caption: Setup & Installation
 
+   /usage/setup
 
 This project is being developed as part of the `University of Portsmouth's <https://port.ac.uk>`_ School of Computing module, Software Engineering Theory and Practice. The deliverable of this project is a *prototype* of an application. 
