@@ -21,21 +21,31 @@ Requirements
     * Enable UFW ufw enable
     * Confirm that it's status is correct using ufw status, you should get something like below;
     
-    +---------+---------+-----------+
-    | To      | Action  | From      |
-    +=========+=========+===========+
-    | 22      | ALLOW   | Anywhere  |
-    +---------+---------+-----------+
-    | 80/tcp  | ALLOW   | Anywhere  |
-    +---------+---------+-----------+
-    | 443     | ALLOW   | Anywhere  |
-    +---------+---------+-----------+
-    | 22 (v6) | ALLOW  | Anywhere (v6) |
-    +---------+---------+-----------+
-    | 80/tcp (v6) | ALLOW | Anywhere (v6) |
-    +---------+---------+-----------+
-    | 443 (v6) | ALLOW | Anywhere (v6) |
-    +---------+---------+-----------+
+.. list-table::
+   :header-rows: 1
+
+   * - To
+     - Action
+     - From
+   * - 22
+     - ALLOW
+     - Anywhere
+   * - 80/tcp
+     - ALLOW
+     - Anywhere
+   * - 443
+     - ALLOW
+     - Anywhere
+   * - 22 (v6)
+     - ALLOW
+     - Anywhere (v6)
+   * - 80/tcp (v6)
+     - ALLOW
+     - Anywhere (v6)
+   * - 443 (v6)
+     - ALLOW
+     - Anywhere (v6)
+
 
 * Step 2: Install Nginx
 - *As Ubuntu 22.04 is a LTS version of Ubuntu, it ships with packages which are now out of date. We want to be using up-do-date Nginx so that we can protect all our services behind it and worry slightly less about their security.*
