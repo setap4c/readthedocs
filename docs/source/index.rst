@@ -17,6 +17,9 @@ EcoTrackr
 
    /dev/index
    /dev/justification
+   /dev/psql-development
+   /dev/vps-development
+   /dev/vps-setup
 
 .. toctree::
    :maxdepth: 2
@@ -39,6 +42,6 @@ EcoTrackr
    :hidden:
    :caption: Setup & Installation
 
-   /usage/setup
+   /setup/installation
 
 This project is being developed as part of the `University of Portsmouth's <https://port.ac.uk>`_ School of Computing module, Software Engineering Theory and Practice. The deliverable of this project is a *prototype* of an application. 
