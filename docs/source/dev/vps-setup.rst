@@ -21,30 +21,30 @@ Requirements
     * Enable UFW ufw enable
     * Confirm that it's status is correct using ufw status, you should get something like below;
     
-.. list-table::
-   :header-rows: 1
+    .. list-table::
+        :header-rows: 1
 
-   * - To
-     - Action
-     - From
-   * - 22
-     - ALLOW
-     - Anywhere
-   * - 80/tcp
-     - ALLOW
-     - Anywhere
-   * - 443
-     - ALLOW
-     - Anywhere
-   * - 22 (v6)
-     - ALLOW
-     - Anywhere (v6)
-   * - 80/tcp (v6)
-     - ALLOW
-     - Anywhere (v6)
-   * - 443 (v6)
-     - ALLOW
-     - Anywhere (v6)
+    * - To
+        - Action
+        - From
+    * - 22
+        - ALLOW
+        - Anywhere
+    * - 80/tcp
+        - ALLOW
+        - Anywhere
+    * - 443
+        - ALLOW
+        - Anywhere
+    * - 22 (v6)
+        - ALLOW
+        - Anywhere (v6)
+    * - 80/tcp (v6)
+        - ALLOW
+        - Anywhere (v6)
+    * - 443 (v6)
+        - ALLOW
+        - Anywhere (v6)
 
 
 * Step 2: Install Nginx
