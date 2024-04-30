@@ -27,6 +27,7 @@ EcoTrackr
    :caption: Code Documentation
 
    /code-doc/index
+   /code-doc/api-endpoint
    Frontend Documentation <https://frontend-docs.ecotrackr.cc>
    Backend (API) Documentation <https://backend-docs.ecotrackr.cc>
 
