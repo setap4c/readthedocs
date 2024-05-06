@@ -13,4 +13,4 @@ Setup Guide
 6. Stopping the application can be done by simply pressing down the *control* button and *c* at the same time in the terminal. **(ctrl + c)**
 
 * The application requires no running of the backend services as these have already been initialized and setup to run full-time during the duration of this project.
-* Documentation on how this was set up can be found here: :ref:`./dev/index`
+* Documentation on how this was set up can be found under the **Dev** heading.
